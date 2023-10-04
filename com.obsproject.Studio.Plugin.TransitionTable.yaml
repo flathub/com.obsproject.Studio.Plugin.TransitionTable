@@ -21,8 +21,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/exeldro/obs-transition-table.git
-        tag: 0.2.6
-        commit: 7a7ae9e5bfe4f3b48883d901e90fd4ffb4608e6d
+        tag: 0.2.7
+        commit: 1a85ab9de529ff521b7acad206ab55f4da72ac73
         x-checker-data:
           type: git
           is-main-source: true
